@@ -3,3 +3,5 @@ Elenco dei partecipanti
 0 Gscara!
 
 1 Mario
+
+2 Pippo
